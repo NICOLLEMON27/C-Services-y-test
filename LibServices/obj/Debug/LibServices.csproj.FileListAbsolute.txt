@@ -1,0 +1,6 @@
+C:\Users\IngSis\source\repos\LibServices\bin\Debug\LibServices.dll
+C:\Users\IngSis\source\repos\LibServices\bin\Debug\LibServices.pdb
+C:\Users\IngSis\source\repos\LibServices\obj\Debug\LibServices.csproj.AssemblyReference.cache
+C:\Users\IngSis\source\repos\LibServices\obj\Debug\LibServices.csproj.CoreCompileInputs.cache
+C:\Users\IngSis\source\repos\LibServices\obj\Debug\LibServices.dll
+C:\Users\IngSis\source\repos\LibServices\obj\Debug\LibServices.pdb
